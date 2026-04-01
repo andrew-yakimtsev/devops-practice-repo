@@ -1,1 +1,3 @@
 03/25/2026 - Completed a simple Python script that gathers system information to better understand the working environment in WSL.
+
+03/31/2025 - Started a weather API script using 'openweathermap.org'. Sent GET requests with lat/lon parameters and parsed JSON response. Extracted key fields (city, weather, description, temperature), formatted strings (title case, Fahrenheit), and saved structured output to a JSON file.
