@@ -1,5 +1,6 @@
-import requests, json, datetime
+import requests, json
 from datetime import datetime
+from api_key import api
 
 today = datetime.now()
 formatted_date = today.strftime("%Y-%m-%d")
@@ -10,7 +11,7 @@ def api_call():
     params = {
         "lat": 38.5816,
         "lon": -121.4944,
-        "appid": "",
+        "appid": api,
         "units": "imperial"
     }
 
@@ -36,4 +37,4 @@ def print_json():
 
 print_json()
 
-#! TODO: Hide API Key, Don't Override Parse, Add "Run on startup (CRON)"
+#! TODO: Don't Override Parse, Add "Run on startup (CRON)"
