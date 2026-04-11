@@ -1,9 +1,22 @@
 import requests, json
+from pathlib import Path
 from datetime import datetime
 from api_key import api
 
-today = datetime.now()
-formatted_date = today.strftime("%Y-%m-%d")
+BASE_DIR = Path(__file__).resolve().parent
+weather_file = BASE_DIR / "weather_data.json"
+last_run_file = BASE_DIR / "last_run.txt"
+
+today = datetime.now().strftime("%Y-%m-%d")
+
+def already_ran_today():
+    if last_run_file.exists():
+        last_run = last_run_file.read_text().strip()
+        return last_run == today
+    return False
+
+def mark_ran_today():
+    last_run_file.write_text(today)
 
 def api_call():
     url = "https://api.openweathermap.org/data/2.5/weather"
@@ -30,11 +43,12 @@ def api_call():
     return parsed_data
 
 def print_json():
-    file_path = 'weather_api/weather_data.json'
-
-    with open(file_path, 'w') as json_file:
+    with open(weather_file, 'a') as json_file:
         json.dump(api_call(), json_file, indent=4)
+        json_file.write("\n")
 
-print_json()
-
-#! TODO: Don't Override Parse, Add "Run on startup (CRON)"
+if already_ran_today():
+    print("Already ran today. Exiting...")
+else:
+    print_json()
+    mark_ran_today()
