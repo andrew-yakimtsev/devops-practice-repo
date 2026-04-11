@@ -4,7 +4,7 @@ from datetime import datetime
 from api_key import api
 
 BASE_DIR = Path(__file__).resolve().parent
-weather_file = BASE_DIR / "weather_data.json"
+weather_file = BASE_DIR / "weather_data.jsonl"
 last_run_file = BASE_DIR / "last_run.txt"
 
 today = datetime.now().strftime("%Y-%m-%d")
