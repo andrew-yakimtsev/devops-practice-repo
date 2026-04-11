@@ -2,5 +2,4 @@ _pycache_/
 
 /api_key.py
 /weather_api.json
-/weather_data.json
 /last_run.txt
