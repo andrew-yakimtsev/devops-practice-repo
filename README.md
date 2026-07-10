@@ -13,3 +13,6 @@
 - Added a daily run check using Task Scheduler. 
 - Implemented a function to prevent the script from running multiple times per day. 
 - Also ensured that previously parsed data is preserved instead of overwriting weather_data.json.
+
+05/13/2026
+- Updated weather_data.json after running the program for >20 days.
