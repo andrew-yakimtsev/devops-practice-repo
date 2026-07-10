@@ -173,3 +173,388 @@
     "description": "Clear Sky",
     "temp": "76.8F"
 }
+{
+    "date": "2026-05-14",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "87.6F"
+}
+{
+    "date": "2026-05-15",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "83.71F"
+}
+{
+    "date": "2026-05-16",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "78.51F"
+}
+{
+    "date": "2026-05-17",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "70.03F"
+}
+{
+    "date": "2026-05-18",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "70.09F"
+}
+{
+    "date": "2026-05-19",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "86.13F"
+}
+{
+    "date": "2026-05-20",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "88.43F"
+}
+{
+    "date": "2026-05-21",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "94.3F"
+}
+{
+    "date": "2026-05-22",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "86.83F"
+}
+{
+    "date": "2026-05-24",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "83.03F"
+}
+{
+    "date": "2026-05-25",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "71.78F"
+}
+{
+    "date": "2026-05-26",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "70.72F"
+}
+{
+    "date": "2026-05-27",
+    "name": "Sacramento",
+    "weather": "Rain",
+    "description": "Light Rain",
+    "temp": "55.54F"
+}
+{
+    "date": "2026-05-28",
+    "name": "Sacramento",
+    "weather": "Clouds",
+    "description": "Scattered Clouds",
+    "temp": "71.37F"
+}
+{
+    "date": "2026-05-29",
+    "name": "Sacramento",
+    "weather": "Clouds",
+    "description": "Overcast Clouds",
+    "temp": "63.34F"
+}
+{
+    "date": "2026-05-30",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "76.73F"
+}
+{
+    "date": "2026-05-31",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "85.8F"
+}
+{
+    "date": "2026-06-01",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "87.58F"
+}
+{
+    "date": "2026-06-02",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "67.12F"
+}
+{
+    "date": "2026-06-03",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "87.24F"
+}
+{
+    "date": "2026-06-04",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "95.13F"
+}
+{
+    "date": "2026-06-05",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "91.42F"
+}
+{
+    "date": "2026-06-06",
+    "name": "Sacramento",
+    "weather": "Clouds",
+    "description": "Overcast Clouds",
+    "temp": "82.98F"
+}
+{
+    "date": "2026-06-08",
+    "name": "Sacramento",
+    "weather": "Clouds",
+    "description": "Overcast Clouds",
+    "temp": "62.92F"
+}
+{
+    "date": "2026-06-09",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "85.57F"
+}
+{
+    "date": "2026-06-10",
+    "name": "Sacramento",
+    "weather": "Clouds",
+    "description": "Scattered Clouds",
+    "temp": "89.62F"
+}
+{
+    "date": "2026-06-11",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "101.44F"
+}
+{
+    "date": "2026-06-12",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "85.68F"
+}
+{
+    "date": "2026-06-13",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "98.71F"
+}
+{
+    "date": "2026-06-14",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "86.59F"
+}
+{
+    "date": "2026-06-15",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "91.8F"
+}
+{
+    "date": "2026-06-16",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "91.63F"
+}
+{
+    "date": "2026-06-17",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "85.39F"
+}
+{
+    "date": "2026-06-18",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "84.45F"
+}
+{
+    "date": "2026-06-19",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "78.84F"
+}
+{
+    "date": "2026-06-20",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "83.8F"
+}
+{
+    "date": "2026-06-21",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "59.38F"
+}
+{
+    "date": "2026-06-22",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "81.03F"
+}
+{
+    "date": "2026-06-23",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "94.37F"
+}
+{
+    "date": "2026-06-24",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "88.21F"
+}
+{
+    "date": "2026-06-25",
+    "name": "Sacramento",
+    "weather": "Clouds",
+    "description": "Broken Clouds",
+    "temp": "87.62F"
+}
+{
+    "date": "2026-06-26",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "73.8F"
+}
+{
+    "date": "2026-06-27",
+    "name": "Sacramento",
+    "weather": "Clouds",
+    "description": "Scattered Clouds",
+    "temp": "76.91F"
+}
+{
+    "date": "2026-06-28",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "83.73F"
+}
+{
+    "date": "2026-06-29",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "80.17F"
+}
+{
+    "date": "2026-06-30",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "91.42F"
+}
+{
+    "date": "2026-07-01",
+    "name": "Sacramento",
+    "weather": "Clouds",
+    "description": "Scattered Clouds",
+    "temp": "90.07F"
+}
+{
+    "date": "2026-07-02",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "88.36F"
+}
+{
+    "date": "2026-07-03",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "63.54F"
+}
+{
+    "date": "2026-07-04",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "95.68F"
+}
+{
+    "date": "2026-07-05",
+    "name": "Sacramento",
+    "weather": "Clouds",
+    "description": "Scattered Clouds",
+    "temp": "90.88F"
+}
+{
+    "date": "2026-07-06",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "86.4F"
+}
+{
+    "date": "2026-07-07",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "75.7F"
+}
+{
+    "date": "2026-07-08",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "92.71F"
+}
+{
+    "date": "2026-07-09",
+    "name": "Sacramento",
+    "weather": "Clear",
+    "description": "Clear Sky",
+    "temp": "98.8F"
+}
